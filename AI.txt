@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 150px;
+  margin: 10px;
+  text-align: center;
+  line-height: 100px;
+  font-size: 20px;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul.a {
+  list-style-type: circle;
+}
+ol.c {
+  list-style-type: upper-roman;
+}
+</style>
+</head>
+<body>
+<h1 textalign="center">Artificial Intelligence</h1><br><br>
+<p><h2>HISTORY</h2><br> 
+Following are some milestones in the history of AI which defines the journey from the AI generation to till date development.<br><br>
+<img src="https://static.javatpoint.com/tutorial/ai/images/history-of-ai.png"  style="width:150px" style="width:50%;"><br><br>
+<b>Maturation of Artificial Intelligence (1943-1952)</b><br>
+<b>Year 1943:</b><br> The first work which is now recognized as AI was done by Warren McCulloch and Walter pits in 1943. They proposed a model of artificial neurons.<br>
+<b>Year 1949:</b><br> Donald Hebb demonstrated an updating rule for modifying the connection strength between neurons. His rule is now called Hebbian learning.<br>
+<b>Year 1950:</b><br> The Alan Turing who was an English mathematician and pioneered Machine learning in 1950. Alan Turing publishes "Computing Machinery and Intelligence" in which he proposed a test. The test can check the machine's ability to exhibit intelligent behavior equivalent to human intelligence, called a Turing test.<br>
+<b>The birth of Artificial Intelligence (1952-1956)</b><br>
+<b>Year 1955:</b><br> An Allen Newell and Herbert A. Simon created the "first artificial intelligence program"Which was named as "Logic Theorist". This program had proved 38 of 52 Mathematics theorems, and find new and more elegant proofs for some theorems.<br>
+<b>Year 1956:</b><br> The word "Artificial Intelligence" first adopted by American Computer scientist John McCarthy at the Dartmouth Conference. For the first time, AI coined as an academic field.
+At that time high-level computer languages such as FORTRAN, LISP, or COBOL were invented. And the enthusiasm for AI was very high at that time.<br>
+
+<b>The golden years-Early enthusiasm (1956-1974)</b><br>
+<b>Year 1966:</b><br> The researchers emphasized developing algorithms which can solve mathematical problems. Joseph Weizenbaum created the first chatbot in 1966, which was named as ELIZA.<br>
+<b>Year 1972:</b><br> The first intelligent humanoid robot was built in Japan which was named as WABOT-1.<br>
+<b>The first AI winter (1974-1980)</b><br>
+The duration between years 1974 to 1980 was the first AI winter duration. AI winter refers to the time period where computer scientist dealt with a severe shortage of funding from government for AI researches.
+During AI winters, an interest of publicity on artificial intelligence was decreased.<br>
+<b>A boom of AI (1980-1987)</b><br>
+<b>Year 1980:</b><br> After AI winter duration, AI came back with "Expert System". Expert systems were programmed that emulate the decision-making ability of a human expert.
+In the Year 1980, the first national conference of the American Association of Artificial Intelligence was held at Stanford University.<br>
+<b>The second AI winter (1987-1993)</b><br>
+The duration between the years 1987 to 1993 was the second AI Winter duration.
+Again Investors and government stopped in funding for AI research as due to high cost but not efficient result. The expert system such as XCON was very cost effective.<br>
+<b>The emergence of intelligent agents (1993-2011)</b><br>
+<b>Year 1997:</b> In the year 1997, IBM Deep Blue beats world chess champion, Gary Kasparov, and became the first computer to beat a world chess champion.<br>
+<b>Year 2002:</b><br> for the first time, AI entered the home in the form of Roomba, a vacuum cleaner.<br>
+<b>Year 2006:</b><br> AI came in the Business world till the year 2006. Companies like Facebook, Twitter, and Netflix also started using AI.
+Deep learning, big data and artificial general intelligence (2011-present)
+<b>Year 2011:</b><br> In the year 2011, IBM's Watson won jeopardy, a quiz show, where it had to solve the complex questions as well as riddles. Watson had proved that it could understand natural language and can solve tricky questions quickly.<br>
+<b>Year 2012:</b><br> Google has launched an Android app feature "Google now", which was able to provide information to the user as a prediction.
+<b>Year 2014:</b><br> In the year 2014, Chatbot "Eugene Goostman" won a competition in the infamous "Turing test."<br>
+<b>Year 2018:</b><br> The "Project Debater" from IBM debated on complex topics with two master debaters and also performed extremely well.
+Google has demonstrated an AI program "Duplex" which was a virtual assistant and which had taken hairdresser appointment on call, and lady on other side didn't notice that she was talking with the machine.</p>
+<br><br>
+<p><h2>GOALS</h2><br>
+AI is primarily achieved by reverse-engineering human capabilities and traits and applying them to machines.The essential goals of AI are explained below.<br><br>
+<img src="https://pimages.toolbox.com/wp-content/uploads/2022/03/14122508/36.png"  style="width:150px" style="width:50%;"><br><br>
+<ul class="a">
+  <li>Develop problem-solving ability</li>
+  <li>Incorporate knowledge representation</li>
+  <li>Facilitate planning</li>
+  <li>Allow continuous learning</li>
+  <li>Encourage social Intelligence</li>
+  <li>Promote creativity</li>
+  <li>Achieve general intelligence</li>
+  <li>Promote synergy between humans and AI</li>
+</ul></p>
+<br><br>
+<p><h2>APPLICATIONS OF AI</h2><br>
+AI is making our daily life more comfortable and fast.
+Following are some sectors which have the application of Artificial Intelligence:<br><br>
+<img src="https://static.javatpoint.com/tutorial/ai/images/application-of-ai.png"  style="width:150px" style="width:50%;"><br><br>
+
+<ol class="c">
+  <li>Astronomy</li>
+  <li>Healthcare</li>
+  <li>Gaming</li>
+  <li>Entertainment</li>
+  <li>Robotics</li> 
+  <li>Automotive Industry</li>
+  <li>Finance</li>
+  <li>Travel and Transport</li>
+  <li>Social Media</li>
+  <li>Data Security</li>
+  <li>Agriculture</li>
+  <li>Education</li>
+</p>
+
+</body>
+</html>
